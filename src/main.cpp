@@ -89,8 +89,9 @@ Function:			getPoint
 
 Description:	Read the point from the user
 
-Parameters:		x - the x value of the point
-				      y - the y value of the point
+Parameters:		prompt - user input prompt
+							x      - the x value of the point
+				      y      - the y value of the point
 
 Returned:			None
 ***********************************************************************/
